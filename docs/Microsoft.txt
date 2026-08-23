@@ -1,0 +1,230 @@
+Microsoft
+Microsoft Corporation is an American multinational Microsoft Corporation
+corporation and technology conglomerate
+headquartered in Redmond, Washington.[2] Founded
+in 1975, the company became influential in the rise of
+personal computers through software like Windows,
+and the company has since expanded to Internet Logo used since 2012
+services, cloud computing, video gaming and other
+fields. Microsoft is the largest software maker, one of
+the most valuable public U.S. companies,[a] and one
+of the most valuable brands globally.
+
+Microsoft was founded by Bill Gates and Paul Allen
+to develop and sell BASIC interpreters for the Altair
+8800. It rose to dominate the personal computer
+operating system market with MS-DOS in the mid-
+1980s, followed by Windows. During the 41 years Aerial view of the Microsoft campus in Redmond
+from 1980 to 2021 Microsoft released 9 versions of
+MS-DOS with a median frequency of 2 years, and 13 Company Public
+
+versions of Windows with a median frequency of 3 type
+
+years. The company's 1986 initial public offering Traded as Nasdaq: MSFT (https://www.na
+(IPO) and subsequent rise in its share price created sdaq.com/market-activity/stock
+
+three billionaires and an estimated 12,000 millionaires s/msft)
+
+among Microsoft employees. Since the 1990s, it has Nasdaq-100 component
+
+increasingly diversified from the operating system DJIA component
+
+market. Steve Ballmer replaced Gates as CEO in S&P 100 component
+2000. He oversaw the then-largest of Microsoft's S&P 500 component
+corporate acquisitions in Skype Technologies in ISIN US5949181045 (https://isin.tool
+2011,[3] and an increased focus on hardware[4][5] that forge.org/?language=en&isin=U
+led to its first in-house PC line, the Surface, in 2012, S5949181045)
+and the formation of Microsoft Mobile through Industry Information technology
+Nokia. Since Satya Nadella took over as CEO in Predecessor Traf-O-Data
+2014, the company has changed focus towards cloud
+computing,[6][7] as well as its large acquisition of Founded April 4, 1975 in
+
+Albuquerque, New Mexico, U.S.
+LinkedIn for $26.2 billion in 2016.[8] Under Nadella's
+direction, the company has also expanded its video Founders Bill Gates
+
+gaming business to support the Xbox brand, Paul Allen
+
+establishing the Microsoft Gaming division in 2022 Headquarters One Microsoft Way,
+and acquiring Activision Blizzard for $68.7 billion in Redmond, Washington, U.S.
+
+2023.[9] Area served Worldwide
+
+Key people Satya Nadella (chairman &
+CEO)
+
+
+
+Microsoft has been market-dominant in the IBM PC– Brad Smith (vice chairman &
+compatible operating system market and the office president)
+software suite market since the 1990s. Its best-known Bill Gates (technical adviser)
+software products are the Windows line of operating Products Software development
+systems and the Microsoft Office and Microsoft 365 Computer hardware
+suite of productivity applications, which most notably
+
+Consumer electronics
+include the Word word processor, Excel spreadsheet
+editor, and the PowerPoint presentation program. Its Social networking service
+
+flagship hardware products are the Surface lineup of Cloud computing
+
+personal computers and Xbox video game consoles, Video games
+
+the latter of which includes the Xbox network; the Internet
+
+company also provides a range of consumer Internet Corporate venture capital
+services such as Bing web search, the MSN web Brands Windows · Microsoft 365 ·
+portal, the Outlook.com (Hotmail) email service and Teams · Visual Studio · Xbox ·
+the Microsoft Store. In the enterprise and Dynamics · Surface
+development fields, Microsoft most notably provides Services Edge · Azure · Bing · LinkedIn ·
+the Azure cloud computing platform, Microsoft SQL Viva Engage · Microsoft 365 ·
+Server database software, and Visual Studio. OneDrive · Dynamics 365 ·
+
+Outlook · GitHub · Microsoft
+Microsoft is considered one of the Big Five American Store · Windows Update ·
+information technology companies, alongside Game Pass · Xbox network
+
+Alphabet,[b] Amazon, Apple, and Meta.[c] In April Revenue  US$281.7 billion (2025)
+
+2019, Microsoft reached a trillion-dollar market cap, Operating  US$128.5 billion (2025)
+becoming the third public U.S. company to be valued income
+at over $1 trillion. It has been criticized for its Net income  US$101.8 billion (2025)
+monopolistic practices, and the company's software Total assets  US$619.0 billion (2025)
+has been criticized for problems with ease of use,
+
+Total equity  US$343.5 billion (2025)
+robustness, and security.
+
+Number of 228,000 (2025)
+employees
+
+History Divisions Microsoft Gaming
+Microsoft 365
+Microsoft Research
+
+1972–1985: Founding Windows and Devices Group
+
+Childhood friends Bill Gates and Paul Allen sought to Microsoft Cloud
+
+make a business using their skills in computer Microsoft AI
+
+programming.[11] In 1972, they founded Traf-O-Data, Microsoft Security
+
+which sold a rudimentary computer to track and Microsoft Industry
+
+analyze automobile traffic data. Gates enrolled at Microsoft Business Applications
+Harvard University while Allen pursued a degree in Microsoft Developer
+computer science at Washington State University, Subsidiaries GitHub
+though he later dropped out to work at Honeywell.[12]
+
+LinkedIn
+
+The January 1975 issue of Popular Electronics ASN 8075 (https://bgp.tools/as/8075)
+featured Micro Instrumentation and Telemetry Website www.microsoft.com (https://ww
+Systems's (MITS) Altair 8800 microcomputer,[13]
+
+w.microsoft.com/)
+
+
+
+which Footnotes / references
+inspired Financials as of June 30, 2025.[1]
+
+Allen to
+suggest that they could program a BASIC interpreter for the
+device. Gates called MITS and claimed that he had a
+working interpreter, and MITS requested a demonstration.
+Allen worked on a simulator for the Altair while Gates
+developed the interpreter, and it worked flawlessly when
+they demonstrated it to MITS in March 1975 in
+Albuquerque, New Mexico. MITS agreed to distribute it,
+
+An Altair 8800 computer (left) with the marketing it as Altair BASIC.[10]: 108, 112–114  Gates and Allen
+popular Model 33 ASR Teletype as
+terminal, paper tape reader, and paper established Microsoft on April 4, 1975, with Gates as
+tape punch CEO,[14] and Allen suggested the name "Micro-Soft", short
+
+for micro-computer software.[15][16] In August 1977, the
+company formed
+
+an agreement with
+ASCII Magazine
+in Japan, resulting
+in its first
+international
+office of ASCII
+Microsoft.[17]
+
+Microsoft moved
+Paul Allen and Bill Gates on October 19, its headquarters to
+1981, after signing a pivotal contract with Bellevue, Bill Gates and Paul Allen's Original
+IBM[10]: 228  Washington, in Business Cards located in the Microsoft
+
+January 1979.[14] Visitor Center
+
+Microsoft entered the operating system (OS) business in 1980
+with its own version of Unix called Xenix,[18] but it was MS-DOS that solidified the company's
+dominance. IBM awarded a contract to Microsoft in November 1980 to provide a version of the CP/M
+OS to be used in the IBM Personal Computer (IBM PC).[19] For this deal, Microsoft purchased a CP/M
+clone called 86-DOS from Seattle Computer Products which it branded as MS-DOS, although IBM
+rebranded it to IBM PC DOS. Microsoft retained ownership of MS-DOS following the release of the
+IBM PC in August 1981. IBM had copyrighted the IBM PC BIOS, so other companies had to reverse
+engineer it for non-IBM hardware to run as IBM PC compatibles, but no such restriction applied to the
+operating systems. Microsoft eventually became the leading PC operating systems vendor.[20][21]: 210  The
+company expanded into new markets with the release of the Microsoft Mouse in 1983, as well as with a
+publishing division named Microsoft Press.[10]: 232  Paul Allen resigned from Microsoft in 1983 after
+developing Hodgkin's lymphoma.[22] Allen claimed in Idea Man: A Memoir by the co-founder of
+Microsoft that Gates wanted to dilute his share in the company when he was diagnosed with Hodgkin's
+disease because he did not think that he was working hard enough.[23] Allen later invested in low-tech
+sectors, sports teams, commercial real estate, neuroscience, private space flight, and more.[24]
+
+
+
+1985–1994: Windows and Office
+Microsoft released Windows 1.0 on November 20, 1985, as a
+graphical extension for MS-DOS,[10]: 242–243, 246  despite
+having begun jointly developing OS/2 with IBM that
+August.[25] Microsoft moved its headquarters from Bellevue
+to Redmond, Washington, on February 26, 1986, and went
+public with an initial public offering (IPO) at the NASDAQ
+exchange on March 13,[26] with the resulting rise in stock
+making an estimated four billionaires and 12,000 millionaires
+from Microsoft employees.[27] Microsoft released its version
+of OS/2 to original equipment manufacturers (OEMs) on Windows 1.0 was released on November
+April 2, 1987.[10] In 1990, the Federal Trade Commission 20, 1985, as the first version of the
+examined Microsoft for possible collusion due to the Windows line.
+partnership with IBM, marking the beginning of more than a
+decade of legal clashes with the government.[28] : 243–244 
+
+Meanwhile, the company was at work on Microsoft Windows NT, which was heavily based on their copy
+of the OS/2 code. It shipped on July 21, 1993, with a new modular kernel and the 32-bit Win32
+application programming interface (API), making it easier to port from 16-bit (MS-DOS-based)
+Windows. Microsoft informed IBM of Windows NT, and the OS/2 partnership deteriorated.[29]
+
+In 1990, Microsoft introduced the Microsoft Office suite which bundled separate applications such as
+Microsoft Word and Microsoft Excel.[10]: 301  On May 22, Microsoft launched Windows 3.0, featuring
+streamlined user interface graphics and improved protected mode capability for the Intel 386
+processor,[30] and both Office and Windows became dominant in their respective areas.[31][32]
+
+On July 27, 1994, the Department of Justice's Antitrust Division filed a competitive impact statement that
+said: "Beginning in 1988 and continuing until July 15, 1994, Microsoft induced many OEMs to execute
+anti-competitive per processor licenses. Under a per-processor license, an OEM pays Microsoft a royalty
+for each computer it sells containing a particular microprocessor, whether the OEM sells the computer
+with a Microsoft operating system or a non-Microsoft operating system. In effect, the royalty payment to
+Microsoft when no Microsoft product is being used acts as a penalty, or tax, on the OEM's use of a
+competing PC operating system. Since 1988, Microsoft's use of per processor licenses has increased."[33]
+
+1995–2007: Foray into the Web, Windows 95, Windows XP, and Xbox
+Following Bill Gates's internal "Internet Tidal Wave memo" on May 26, 1995, Microsoft began to
+redefine its offerings and expand its product line into computer networking and the World Wide Web.[34]
+
+With a few exceptions of new companies, like Netscape, Microsoft was the only major and established
+company that acted fast enough to be a part of the World Wide Web practically from the start. Other
+companies like Borland, WordPerfect, Novell, IBM and Lotus, being much slower to adapt to the new
+situation, would give Microsoft market dominance.[35]
+
+The company released Windows 95 on August 24, 1995, featuring pre-emptive multitasking, a completely
+new user interface with a novel start button, and 32-bit compatibility; similar to NT, it provided the
+Win32 API.[36][37]: 20  Windows 95 came bundled with the online service MSN, which was at first
+intended to be a competitor to the Internet, and (for OEMs) Internet Explorer, a Web browser. Internet
+Explorer was not bundled with the retail Windows 95 boxes, because the boxes were printed before the
